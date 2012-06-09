@@ -1,7 +1,7 @@
 package squid
 
 /**
- * User: alejandro
+ * User: Alejandro Peláez
  * Date: 23/05/12
  * Time: 02:03 PM
  */
